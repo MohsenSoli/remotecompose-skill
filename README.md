@@ -23,7 +23,7 @@ gets it right the first time instead of rediscovering every pitfall.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/remotecompose-skill ~/.claude/skills/remotecompose
+git clone https://github.com/MohsenSoli/remotecompose-skill ~/.claude/skills/remotecompose
 ```
 
 Or copy the folder into a project as `.claude/skills/remotecompose/` to scope
@@ -32,7 +32,7 @@ it to that repo.
 ## See it in action
 
 The skill was distilled from this working demo (Ktor server + Android player,
-with state and persistence): https://github.com/<you>/RemoteCompose
+with state and persistence): https://github.com/MohsenSoli/RemoteCompose
 
 ## Caveat
 
